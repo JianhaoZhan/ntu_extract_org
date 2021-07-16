@@ -29,4 +29,4 @@ where: SKELETON_PATH is the path of xx.skeleton files, TARGET_PATH is the path w
   
 ## 5.and the result as follows:
   
-  ![result](https://github.com/JianhaoZhan/ntu_extract_org/blob/main/others.jpg)
+  ![result](https://github.com/JianhaoZhan/ntu_extract_org/blob/main/org.jpg)
