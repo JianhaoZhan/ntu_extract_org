@@ -25,3 +25,6 @@ how to extract RGB frames from video, you can follows : https://github.com/Jianh
   ```python
   python generate.py /New-8T/mars/ntu60  /New-8T/mars/NTU-Skeleton  /New-8T/mars/NTU_RGB
   ```
+  
+  and the result as follows:
+  ![result](https://github.com/JianhaoZhan/ntu_extract_org/blob/main/others.jpg)
