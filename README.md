@@ -2,14 +2,14 @@
 
 This repository is used to extract the RGB with skeleton files in NTU-RGB-D dataset:
 
-1.To the environment, you only need to : 
+1. To the environment, you only need to : 
 
 ```
 conda install python=3.7.1
 pip install opencv-python
 ```
 
-2.You should download NTU-RGB-D dataset in https://rose1.ntu.edu.sg/dataset/actionRecognition/, including RGB_video and .skeleton files.
+2. You should download NTU-RGB-D dataset in https://rose1.ntu.edu.sg/dataset/actionRecognition/, including RGB_video and .skeleton files.
 
 how to extract RGB frames from video, you can follows : https://github.com/JianhaoZhan/RGB-Flow_extrating
 
