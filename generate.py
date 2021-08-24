@@ -1,5 +1,6 @@
 # example: python generate.py /New-8T/mars/ntu60/ /New-8T/mars/NTU_Skeleton/ /New-8T/mars/NTU_RGB/
 import sys, os, cv2
+import numpy as np
 org_dir = sys.argv[1]
 target_dir = sys.argv[2]
 skeleton_list = os.listdir(org_dir)
