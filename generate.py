@@ -23,7 +23,8 @@ for ii in skeleton_list:
         num_frame = int(f.readline())
         for i in range(num_frame):
             people = int(f.readline())
-            image = cv2.imread(os.path.join(rgb_dir, '{:0>5d}.jpg'.format(i+1)))
+            image = cv2.imread(os.path.join(rgb_dir, '{:0>5d}.jpg'.format(i+1)))  # use for image with orginal RGB 
+            # image = np.zeros((256, 455, 3), np.uint8)  # use for image without orginal RGB 
             #if people == 2:
             #    print(tmp_dir+' people is 2!!!')
             for j in range(people):
